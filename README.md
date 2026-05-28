@@ -5,17 +5,16 @@ Global Solution de SERS: monitoramento espacial
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido com o objetivo de monitorar sistemas energéticos de uma missão espacial experimental. A solução interpreta dados simulados relacionados à temperatura, energia, comunicação e funcionamento dos módulos da operação.
+O projeto foi desenvolvido com o objetivo de monitorar sistemas energéticos de uma missão espacial experimental. A solução interpreta dados simulados relacionados à temperatura, energia de bateria, energia solar, comunicação e funcionamento dos módulos da operação.
 
-O sistema utiliza conceitos de programação, automação e sustentabilidade para gerar alertas automáticos e auxiliar na tomada de decisão em situações críticas simuladas.
+O sistema utiliza conceitos de programação e sustentabilidade para gerar alertas automáticos e auxiliar na tomada de decisão em situações críticas simuladas.
 
 ---
 
 ## Funcionalidades
 
-* Monitoramento de temperatura dos módulos
-* Controle do nível de energia
-* Simulação de geração de energia solar
+* Monitoramento de temperatura 
+* Controle do nível de energia solar e da bateria
 * Verificação do status da comunicação
 * Geração automática de alertas
 * Ativação de respostas automáticas
@@ -23,25 +22,15 @@ O sistema utiliza conceitos de programação, automação e sustentabilidade par
 
 ---
 
-## Tecnologias Utilizadas
-
-* Python
-* Google Colab
-* Pandas
-* Matplotlib
-
----
-
 ## Estrutura do Projeto
 
-```plaintext
-projeto/
+monitoramento-espacial/
 │
-├── monitoramento.ipynb
-├── app.py
-├── README.md
-└── imagens/
-```
+├── main.py
+├── dados/
+├── graficos/
+├── relatorio/
+└── README.md
 
 ---
 
@@ -61,7 +50,7 @@ O sistema prioriza o uso eficiente da energia e considera fontes renováveis, co
 
 ## Integrantes
 
-* Nome Completo 1
+* Lana namie Kano Ozeki - RM569795
 * Nome Completo 2
 * Nome Completo 3
 
