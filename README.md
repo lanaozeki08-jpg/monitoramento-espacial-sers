@@ -23,7 +23,7 @@ O sistema utiliza conceitos de programação e sustentabilidade para gerar alert
 ---
 
 ## Estrutura do Projeto
-
+'''
 monitoramento-espacial/
 │
 ├── main.py
@@ -31,7 +31,7 @@ monitoramento-espacial/
 ├── graficos/
 ├── relatorio/
 └── README.md
-
+'''
 ---
 
 ## Como Executar
