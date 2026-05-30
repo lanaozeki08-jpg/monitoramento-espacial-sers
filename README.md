@@ -18,20 +18,6 @@ O sistema utiliza conceitos de programação e sustentabilidade para gerar alert
 * Ativação de respostas automáticas
 * Visualização organizada dos dados
 
-## Estrutura do Projeto
-
-monitoramento-espacial/
-
-main.py
-
-dados/
-
-graficos/
-
-relatorio/
-
-README.md
-
 ## Objetivo Sustentável
 
 O sistema prioriza o uso eficiente da energia e considera fontes renováveis, como energia solar ao invés do uso da bateria, contribuindo para operações espaciais mais sustentáveis.
