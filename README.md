@@ -9,8 +9,6 @@ O projeto foi desenvolvido com o objetivo de monitorar sistemas energéticos de 
 
 O sistema utiliza conceitos de programação e sustentabilidade para gerar alertas automáticos e auxiliar na tomada de decisão em situações críticas simuladas.
 
----
-
 ## Funcionalidades
 
 * Monitoramento de temperatura 
@@ -20,10 +18,7 @@ O sistema utiliza conceitos de programação e sustentabilidade para gerar alert
 * Ativação de respostas automáticas
 * Visualização organizada dos dados
 
----
-
 ## Estrutura do Projeto
----
 
 monitoramento-espacial/
 │
@@ -33,22 +28,15 @@ monitoramento-espacial/
 ├── relatorio/
 └── README.md
 
----
-
 ## Objetivo Sustentável
 
 O sistema prioriza o uso eficiente da energia e considera fontes renováveis, como energia solar ao invés do uso da bateria, contribuindo para operações espaciais mais sustentáveis.
 
----
-
 ## Integrantes
----
 
 * Lana Namie Kano Ozeki - RM569795
 * Luigi Borgheti Freire - RM 569958
 * Raphael Chen Rue Tien - RM 570261
-
----
 
 ## Vídeo Demonstrativo
 
