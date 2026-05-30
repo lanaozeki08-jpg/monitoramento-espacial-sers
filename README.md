@@ -23,37 +23,34 @@ O sistema utiliza conceitos de programação e sustentabilidade para gerar alert
 ---
 
 ## Estrutura do Projeto
----monitoramento-espacial/
+---
+
+monitoramento-espacial/
 │
 ├── main.py
 ├── dados/
 ├── graficos/
 ├── relatorio/
-└── README.md---
-
-## Como Executar
-
-1. Abrir o arquivo no Google Colab ou VS Code
-2. Executar as células do notebook
-3. Visualizar os alertas e gráficos gerados pelo sistema
+└── README.md
 
 ---
 
 ## Objetivo Sustentável
 
-O sistema prioriza o uso eficiente da energia e considera fontes renováveis, como energia solar, contribuindo para operações espaciais mais sustentáveis.
+O sistema prioriza o uso eficiente da energia e considera fontes renováveis, como energia solar ao invés do uso da bateria, contribuindo para operações espaciais mais sustentáveis.
 
 ---
 
 ## Integrantes
+---
 
-* Lana namie Kano Ozeki - RM569795
-* Nome Completo 2
-* Nome Completo 3
+* Lana Namie Kano Ozeki - RM569795
+* Luigi Borgheti Freire - RM 569958
+* Raphael Chen Rue Tien - RM 570261
 
 ---
 
 ## Vídeo Demonstrativo
 
 Link do vídeo no YouTube:
-(Adicionar link aqui)
+
