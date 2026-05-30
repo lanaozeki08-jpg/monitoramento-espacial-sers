@@ -23,9 +23,13 @@ O sistema utiliza conceitos de programação e sustentabilidade para gerar alert
 monitoramento-espacial/
 
 main.py
+
 dados/
+
 graficos/
+
 relatorio/
+
 README.md
 
 ## Objetivo Sustentável
